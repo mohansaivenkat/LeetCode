@@ -13,7 +13,7 @@ class Solution {
 public:
 
     TreeNode* fun(vector<int> &nums , int s , int e){
-        if(s>e)return NULL;
+        if(s>e)return nullptr;
         
         int mid = (s+e)/2;
         
