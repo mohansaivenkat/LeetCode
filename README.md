@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohansaivenkat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/mohansaivenkat/LeetCode/tree/master/0792-binary-search) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mohansaivenkat/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## String
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
