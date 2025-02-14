@@ -5,7 +5,7 @@ public:
         int prev_min=prices[0];
         int profit = 0;
 
-        for(int i=0;i<n;i++){
+        for(int i=1;i<n;i++){
             profit= max(prices[i]-prev_min,profit);
             if(prices[i]<prev_min){
                 prev_min=prices[i];
