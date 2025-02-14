@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/mohansaivenkat/LeetCode/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/mohansaivenkat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mohansaivenkat/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
+| [1019-squares-of-a-sorted-array](https://github.com/mohansaivenkat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
+| [1019-squares-of-a-sorted-array](https://github.com/mohansaivenkat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
