@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/mohansaivenkat/LeetCode/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/mohansaivenkat/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohansaivenkat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mohansaivenkat/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mohansaivenkat/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/mohansaivenkat/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mohansaivenkat/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/mohansaivenkat/LeetCode/tree/master/0069-sqrtx) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/mohansaivenkat/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 ## Recursion
 |  |
