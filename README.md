@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohansaivenkat/LeetCode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/mohansaivenkat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/mohansaivenkat/LeetCode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohansaivenkat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohansaivenkat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohansaivenkat/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohansaivenkat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/mohansaivenkat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/mohansaivenkat/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mohansaivenkat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohansaivenkat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mohansaivenkat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohansaivenkat/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohansaivenkat/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/mohansaivenkat/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -168,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohansaivenkat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mohansaivenkat/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
