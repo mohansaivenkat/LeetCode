@@ -8,12 +8,14 @@ public:
                 curr=0;
             }
             else{
-                curr++; 
+                curr++;
                 if(curr>0){
-                    res=curr;;
-                }    
+                    res=curr;
+                }
             }
         }
+
         return res;
+        
     }
 };
