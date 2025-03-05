@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/mohansaivenkat/LeetCode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/mohansaivenkat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mohansaivenkat/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [3226-minimum-number-game](https://github.com/mohansaivenkat/LeetCode/tree/master/3226-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -89,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/mohansaivenkat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/mohansaivenkat/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [3226-minimum-number-game](https://github.com/mohansaivenkat/LeetCode/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3226-minimum-number-game](https://github.com/mohansaivenkat/LeetCode/tree/master/3226-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/mohansaivenkat/LeetCode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/mohansaivenkat/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [3226-minimum-number-game](https://github.com/mohansaivenkat/LeetCode/tree/master/3226-minimum-number-game) |
 ## Prefix Sum
 |  |
 | ------- |
