@@ -11,13 +11,12 @@ public:
         //     }
         // }
 
-        vector<int> v;
+        
         sort(nums.begin(),nums.end());
         int n = nums.size();
         for(int i=0;i<n;i=i+2){
-            v.push_back(nums[i+1]);
-            v.push_back(nums[i]);
+           swap(nums[i],nums[i+1]);
         }
-        return v;
+        return nums;
     }
 };
