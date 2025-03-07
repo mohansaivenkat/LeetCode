@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mohansaivenkat/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/mohansaivenkat/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/mohansaivenkat/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/mohansaivenkat/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/mohansaivenkat/LeetCode/tree/master/0792-binary-search) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mohansaivenkat/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohansaivenkat/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/mohansaivenkat/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/mohansaivenkat/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/mohansaivenkat/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/mohansaivenkat/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/mohansaivenkat/LeetCode/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohansaivenkat/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/mohansaivenkat/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
