@@ -14,9 +14,7 @@ public:
                 }
                 st.push(i);  
         }
-        for(auto i : ns){
-            cout<<i<<" ";
-        }
+        
         cout<<endl;
         for(int i=n-1;i>=0;i--){
                 while(!st.empty()&&arr[st.top()]>arr[i]){
@@ -25,9 +23,7 @@ public:
                 }
                 st.push(i);  
         }
-        for(auto i : ps){
-            cout<<i<<" ";
-        }
+        
         int ans=0;
         for(int i=0;i<n;i++){
             int width=ns[i]-ps[i]-1;
