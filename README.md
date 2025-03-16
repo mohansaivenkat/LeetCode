@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mohansaivenkat/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohansaivenkat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mohansaivenkat/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/mohansaivenkat/LeetCode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohansaivenkat/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/mohansaivenkat/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/mohansaivenkat/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohansaivenkat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/mohansaivenkat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mohansaivenkat/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/mohansaivenkat/LeetCode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohansaivenkat/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/mohansaivenkat/LeetCode/tree/master/0234-palindrome-linked-list) |
