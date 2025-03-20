@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/mohansaivenkat/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohansaivenkat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohansaivenkat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/mohansaivenkat/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/mohansaivenkat/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/mohansaivenkat/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0189-rotate-array) |
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/mohansaivenkat/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/mohansaivenkat/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mohansaivenkat/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
