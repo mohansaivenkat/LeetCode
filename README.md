@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/mohansaivenkat/LeetCode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/mohansaivenkat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mohansaivenkat/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/mohansaivenkat/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3226-minimum-number-game](https://github.com/mohansaivenkat/LeetCode/tree/master/3226-minimum-number-game) |
 ## String
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/mohansaivenkat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/mohansaivenkat/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/mohansaivenkat/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3226-minimum-number-game](https://github.com/mohansaivenkat/LeetCode/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mohansaivenkat/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/mohansaivenkat/LeetCode/tree/master/0782-jewels-and-stones) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/mohansaivenkat/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Queue
 |  |
 | ------- |
