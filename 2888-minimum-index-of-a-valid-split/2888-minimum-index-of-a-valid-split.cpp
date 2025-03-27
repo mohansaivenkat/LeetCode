@@ -12,14 +12,8 @@ public:
             }
         }
         int f = mp[dom];
-        cout<<dom<<endl;
-        cout<<f;
-
         int split = -1;
-
         int f1=0;
-        
-
         for(int i=0;i<n-1;i++){
             if(nums[i]==dom){
                 f1++;
@@ -34,6 +28,5 @@ public:
 
         }
         return split;
-
     }
 };
