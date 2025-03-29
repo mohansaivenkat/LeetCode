@@ -5,10 +5,8 @@ public:
         vector<int> v;
         int n = nums.size();
         for(int c : nums){
-            mp[c]++;
-            
+            mp[c]++; 
         }
-
         for(auto it : mp){
             if(it.second>n/3){
                 v.push_back(it.first);
