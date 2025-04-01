@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/mohansaivenkat/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohansaivenkat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/mohansaivenkat/LeetCode/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/mohansaivenkat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mohansaivenkat/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mohansaivenkat/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/mohansaivenkat/LeetCode/tree/master/0792-binary-search) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mohansaivenkat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mohansaivenkat/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mohansaivenkat/LeetCode/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/mohansaivenkat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/mohansaivenkat/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mohansaivenkat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mohansaivenkat/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mohansaivenkat/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/mohansaivenkat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/mohansaivenkat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/mohansaivenkat/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/mohansaivenkat/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/mohansaivenkat/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/mohansaivenkat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/mohansaivenkat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mohansaivenkat/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mohansaivenkat/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mohansaivenkat/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/mohansaivenkat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohansaivenkat/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mohansaivenkat/LeetCode/tree/master/0496-next-greater-element-i) |
