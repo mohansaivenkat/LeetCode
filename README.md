@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mohansaivenkat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/mohansaivenkat/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/mohansaivenkat/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/mohansaivenkat/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohansaivenkat/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohansaivenkat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohansaivenkat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -283,5 +284,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mohansaivenkat/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/mohansaivenkat/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mohansaivenkat/LeetCode/tree/master/0136-single-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mohansaivenkat/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
