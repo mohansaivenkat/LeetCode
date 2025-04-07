@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohansaivenkat/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/mohansaivenkat/LeetCode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/mohansaivenkat/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohansaivenkat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mohansaivenkat/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mohansaivenkat/LeetCode/tree/master/0067-add-binary) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohansaivenkat/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohansaivenkat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohansaivenkat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
@@ -293,5 +295,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohansaivenkat/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/mohansaivenkat/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
