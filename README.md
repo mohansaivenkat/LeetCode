@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/mohansaivenkat/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/mohansaivenkat/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mohansaivenkat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/mohansaivenkat/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/mohansaivenkat/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/mohansaivenkat/LeetCode/tree/master/0792-binary-search) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mohansaivenkat/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/mohansaivenkat/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mohansaivenkat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/mohansaivenkat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/mohansaivenkat/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mohansaivenkat/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mohansaivenkat/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/mohansaivenkat/LeetCode/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mohansaivenkat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/mohansaivenkat/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 ## Recursion
 |  |
