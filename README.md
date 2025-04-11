@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mohansaivenkat/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohansaivenkat/LeetCode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/mohansaivenkat/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/mohansaivenkat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/mohansaivenkat/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/mohansaivenkat/LeetCode/tree/master/0075-sort-colors) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohansaivenkat/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/mohansaivenkat/LeetCode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/mohansaivenkat/LeetCode/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohansaivenkat/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mohansaivenkat/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohansaivenkat/LeetCode/tree/master/0217-contains-duplicate) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mohansaivenkat/LeetCode/tree/master/0037-sudoku-solver) |
 | [0566-reshape-the-matrix](https://github.com/mohansaivenkat/LeetCode/tree/master/0566-reshape-the-matrix) |
 ## Simulation
 |  |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohansaivenkat/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/mohansaivenkat/LeetCode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/mohansaivenkat/LeetCode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/mohansaivenkat/LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
