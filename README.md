@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mohansaivenkat/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mohansaivenkat/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/mohansaivenkat/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/mohansaivenkat/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohansaivenkat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/mohansaivenkat/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/mohansaivenkat/LeetCode/tree/master/0724-find-pivot-index) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mohansaivenkat/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/mohansaivenkat/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/mohansaivenkat/LeetCode/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
