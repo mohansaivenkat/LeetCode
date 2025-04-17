@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/mohansaivenkat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/mohansaivenkat/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mohansaivenkat/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohansaivenkat/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mohansaivenkat/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3226-minimum-number-game](https://github.com/mohansaivenkat/LeetCode/tree/master/3226-minimum-number-game) |
 ## String
