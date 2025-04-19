@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/mohansaivenkat/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/mohansaivenkat/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohansaivenkat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/mohansaivenkat/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/mohansaivenkat/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/mohansaivenkat/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/mohansaivenkat/LeetCode/tree/master/0792-binary-search) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/mohansaivenkat/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohansaivenkat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/mohansaivenkat/LeetCode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/mohansaivenkat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/mohansaivenkat/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mohansaivenkat/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/mohansaivenkat/LeetCode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mohansaivenkat/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/mohansaivenkat/LeetCode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/mohansaivenkat/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mohansaivenkat/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Queue
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/mohansaivenkat/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mohansaivenkat/LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/mohansaivenkat/LeetCode/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/mohansaivenkat/LeetCode/tree/master/0645-set-mismatch) |
 ## Backtracking
 |  |
 | ------- |
