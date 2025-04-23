@@ -15,15 +15,23 @@ public:
         }
 
         int maxi=0;
-        for(auto it :mp){
-            maxi = max(maxi,mp[it.first]);
-        }
         int count=0;
-        for(auto it:mp){
-            if(it.second==maxi){
+        for(auto it :mp){
+            if(maxi<it.second){
+                maxi=it.second;
+                count=1;
+            }
+            else if(maxi == it.second){
                 count++;
             }
         }
+        // int count=0;
+
+        // for(auto it:mp){
+        //     if(it.second==maxi){
+        //         count++;
+        //     }
+        // }
 
         return count;
 
