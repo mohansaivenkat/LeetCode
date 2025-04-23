@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mohansaivenkat/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/mohansaivenkat/LeetCode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/mohansaivenkat/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1500-count-largest-group](https://github.com/mohansaivenkat/LeetCode/tree/master/1500-count-largest-group) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mohansaivenkat/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Queue
 |  |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/mohansaivenkat/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohansaivenkat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/mohansaivenkat/LeetCode/tree/master/1013-fibonacci-number) |
+| [1500-count-largest-group](https://github.com/mohansaivenkat/LeetCode/tree/master/1500-count-largest-group) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/mohansaivenkat/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 ## Recursion
 |  |
