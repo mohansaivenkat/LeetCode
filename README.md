@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mohansaivenkat/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/mohansaivenkat/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mohansaivenkat/LeetCode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/mohansaivenkat/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/mohansaivenkat/LeetCode/tree/master/0682-baseball-game) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mohansaivenkat/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mohansaivenkat/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/mohansaivenkat/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mohansaivenkat/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohansaivenkat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/mohansaivenkat/LeetCode/tree/master/1013-fibonacci-number) |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/mohansaivenkat/LeetCode/tree/master/1013-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mohansaivenkat/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
