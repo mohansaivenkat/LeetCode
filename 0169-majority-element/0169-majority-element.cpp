@@ -1,15 +1,28 @@
+#include<vector>
+// #include<algorithms>
+using namespace std;
+
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        map<int,int> mp;
-        for(int i=0;i<nums.size();i++){
-            mp[nums[i]]++;
-        }
-        for( auto it : mp){
-            if (it.second>nums.size()/2){
-                return it.first;
+        sort(nums.begin(),nums.end());
+
+        int freq=0;
+        int ans=nums[0];
+        for(int i=1;i<nums.size();i++){
+            if(nums[i]== nums[i-1]){
+                freq++;
             }
+            else{
+                freq=0;
+                ans=nums[i];
+            }
+
+            if(freq >= nums.size()/2){
+                return ans;
+            }
+
         }
-        return 0;
+        return ans;
     }
 };
