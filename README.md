@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohansaivenkat/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/mohansaivenkat/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/mohansaivenkat/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mohansaivenkat/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mohansaivenkat/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mohansaivenkat/LeetCode/tree/master/0069-sqrtx) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohansaivenkat/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/mohansaivenkat/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/mohansaivenkat/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mohansaivenkat/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/mohansaivenkat/LeetCode/tree/master/1013-fibonacci-number) |
