@@ -23,8 +23,6 @@ class Solution {
         int i=0;
         int j=nums.length-1;
 
-        int mid = i + (j-i)/2;
-
         int result = rec(i,j,nums,target);
 
         return result;
