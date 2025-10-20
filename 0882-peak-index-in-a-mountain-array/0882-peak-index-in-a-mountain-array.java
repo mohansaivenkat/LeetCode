@@ -9,7 +9,7 @@ class Solution {
                 return mid;
             }
 
-            if(arr[mid+1] > arr[mid]){
+            if(arr[mid+1] >= arr[mid]){
                 st = mid+1;
             }
             else{
