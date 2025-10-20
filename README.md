@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohansaivenkat/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/mohansaivenkat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohansaivenkat/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mohansaivenkat/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mohansaivenkat/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/mohansaivenkat/LeetCode/tree/master/0792-binary-search) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mohansaivenkat/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/mohansaivenkat/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mohansaivenkat/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mohansaivenkat/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/mohansaivenkat/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/mohansaivenkat/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohansaivenkat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
